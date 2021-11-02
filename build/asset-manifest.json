@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-goal-tracker/static/css/main.77b10626.chunk.css",
+    "main.js": "/react-goal-tracker/static/js/main.75832c9c.chunk.js",
+    "main.js.map": "/react-goal-tracker/static/js/main.75832c9c.chunk.js.map",
+    "runtime-main.js": "/react-goal-tracker/static/js/runtime-main.0ca69875.js",
+    "runtime-main.js.map": "/react-goal-tracker/static/js/runtime-main.0ca69875.js.map",
+    "static/js/2.dc4c24a2.chunk.js": "/react-goal-tracker/static/js/2.dc4c24a2.chunk.js",
+    "static/js/2.dc4c24a2.chunk.js.map": "/react-goal-tracker/static/js/2.dc4c24a2.chunk.js.map",
+    "index.html": "/react-goal-tracker/index.html",
+    "static/css/main.77b10626.chunk.css.map": "/react-goal-tracker/static/css/main.77b10626.chunk.css.map",
+    "static/js/2.dc4c24a2.chunk.js.LICENSE.txt": "/react-goal-tracker/static/js/2.dc4c24a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ca69875.js",
+    "static/js/2.dc4c24a2.chunk.js",
+    "static/css/main.77b10626.chunk.css",
+    "static/js/main.75832c9c.chunk.js"
+  ]
+}
